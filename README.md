@@ -21,28 +21,21 @@ It helps validate RESTful API endpoints for response codes, payloads, and busine
 
 ---
 
-## 📂 Project Structure  
-
-API Automation Framework/
-│── reports/ # Test execution reports
-│── tests/ # Test cases (GET, POST, PUT, DELETE)
-│ ├── test_getuser.py
-│ ├── test_postuser.py
-│ ├── test_putuser.py
-│ ├── test_deleteuser.py
-│── utils/ # Utility and helper modules
-│ ├── apis.py # API methods (GET, POST, PUT, DELETE)
-│── test_data.json # Sample test data
-│── pytest.ini # Pytest configuration
-│── conftest.py # Fixtures and reusable configs
-│── requirements.txt # Project dependencies
+## 🚀 Features
+- Supports GET, POST, PUT, DELETE requests  
+- Reusable **pytest fixtures**  
+- External test data from JSON  
+- Auto-generated **HTML test reports**  
+- Modular design with clear separation of concerns  
+- Randomized data generation for unique test runs  
 
 ---
 
-## ⚡ Features  
-- ✅ GET, POST, PUT, DELETE API automation  
-- ✅ Data-driven testing with JSON  
-- ✅ Pytest fixtures for reusable setup  
-- ✅ Terminal & HTML reports  
-- ✅ Extensible for more APIs  
-
+## 📂 Project Structure
+- **data/** → Test data in JSON format  
+- **reports/** → Test execution reports  
+- **tests/** → Pytest test cases  
+- **utils/** → API client and helpers  
+- **conftest.py** → Shared pytest fixtures  
+- **pytest.ini** → Pytest configuration  
+- **requirements.txt** → Dependencies  
