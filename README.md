@@ -42,7 +42,7 @@ It helps validate RESTful API endpoints for response codes, payloads, and busine
 
 ---
 
-##👨‍💻 **Author**
+#👨‍💻 **Author**
 
 Kowshal Sugunarajah
 Postgraduate Student in Cloud Computing | QA & Automation Enthusiast
