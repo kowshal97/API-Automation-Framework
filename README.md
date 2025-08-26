@@ -7,9 +7,13 @@
 
 ---
 
-## 📌 Overview  
-This project is a **Python-based API Automation Framework** built with **Pytest** and the **Requests** library.  
-It helps validate RESTful API endpoints for response codes, payloads, and business logic, with reports for tracking execution.  
+## 📌 Overview
+This project is an **API Automation Framework** built with **Python**, **Pytest**, and **Requests**.  
+It provides a structured way to automate API testing, covering CRUD operations (Create, Read, Update, Delete), data-driven testing, and reporting.  
+
+The framework is designed to be **scalable, reusable, and maintainable** for validating REST APIs.
+
+---
 
 ---
 
