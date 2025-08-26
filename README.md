@@ -36,3 +36,13 @@ API Automation Framework/
 │── pytest.ini # Pytest configuration
 │── conftest.py # Fixtures and reusable configs
 │── requirements.txt # Project dependencies
+
+---
+
+## ⚡ Features  
+- ✅ GET, POST, PUT, DELETE API automation  
+- ✅ Data-driven testing with JSON  
+- ✅ Pytest fixtures for reusable setup  
+- ✅ Terminal & HTML reports  
+- ✅ Extensible for more APIs  
+
