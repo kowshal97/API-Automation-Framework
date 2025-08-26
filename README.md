@@ -1,11 +1,5 @@
 # 🚀 API Automation Framework  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR-USERNAME/YOUR-REPO?color=blue)  
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/YOUR-REPO?color=green)  
-![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/YOUR-REPO)  
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/YOUR-REPO?style=social)  
-
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)  
 ![Pytest](https://img.shields.io/badge/Test_Framework-Pytest-green?logo=pytest)  
 ![Requests](https://img.shields.io/badge/HTTP_Library-Requests-orange?logo=fastapi)  
@@ -28,3 +22,17 @@ It helps validate RESTful API endpoints for response codes, payloads, and busine
 ---
 
 ## 📂 Project Structure  
+
+API Automation Framework/
+│── reports/ # Test execution reports
+│── tests/ # Test cases (GET, POST, PUT, DELETE)
+│ ├── test_getuser.py
+│ ├── test_postuser.py
+│ ├── test_putuser.py
+│ ├── test_deleteuser.py
+│── utils/ # Utility and helper modules
+│ ├── apis.py # API methods (GET, POST, PUT, DELETE)
+│── test_data.json # Sample test data
+│── pytest.ini # Pytest configuration
+│── conftest.py # Fixtures and reusable configs
+│── requirements.txt # Project dependencies
