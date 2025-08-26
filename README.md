@@ -1,39 +1,30 @@
-# 🧪 API Automation Framework  
+# 🚀 API Automation Framework  
 
-![API Tests](https://github.com/kowshal97/API-Automation-Framework/actions/workflows/python-tests.yml/badge.svg)  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  
-![Pytest](https://img.shields.io/badge/Test-Framework-Pytest-green)  
-![Requests](https://img.shields.io/badge/Library-Requests-yellow)  
-![Status](https://img.shields.io/badge/Status-Active-success)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR-USERNAME/YOUR-REPO?color=blue)  
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/YOUR-REPO?color=green)  
+![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/YOUR-REPO)  
+![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/YOUR-REPO?style=social)  
 
----
-
-## 📌 Overview
-This project is an **API Automation Framework** built with **Python**, **Pytest**, and **Requests**.  
-It provides a structured way to automate API testing, covering CRUD operations (Create, Read, Update, Delete), data-driven testing, and reporting.  
-
-The framework is designed to be **scalable, reusable, and maintainable** for validating REST APIs.
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)  
+![Pytest](https://img.shields.io/badge/Test_Framework-Pytest-green?logo=pytest)  
+![Requests](https://img.shields.io/badge/HTTP_Library-Requests-orange?logo=fastapi)  
+![Status](https://img.shields.io/badge/Status-Active-success)  
 
 ---
 
-## 🚀 Features
-- Supports GET, POST, PUT, DELETE requests  
-- Reusable **pytest fixtures**  
-- External test data from JSON  
-- Auto-generated **HTML test reports**  
-- Modular design with clear separation of concerns  
-- Randomized data generation for unique test runs  
+## 📌 Overview  
+This project is a **Python-based API Automation Framework** built with **Pytest** and the **Requests** library.  
+It helps validate RESTful API endpoints for response codes, payloads, and business logic, with reports for tracking execution.  
 
 ---
 
-## 📂 Project Structure
-- **data/** → Test data in JSON format  
-- **reports/** → Test execution reports  
-- **tests/** → Pytest test cases  
-- **utils/** → API client and helpers  
-- **conftest.py** → Shared pytest fixtures  
-- **pytest.ini** → Pytest configuration  
-- **requirements.txt** → Dependencies  
+## 🛠️ Tech Stack  
+- 🐍 **Python 3.11+**  
+- ⚡ **Pytest** – test runner & fixtures  
+- 🌐 **Requests** – API HTTP client  
+- 📊 **Pytest HTML Reports** – execution results  
 
 ---
 
+## 📂 Project Structure  
