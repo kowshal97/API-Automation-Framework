@@ -17,11 +17,12 @@ The framework is designed to be **scalable, reusable, and maintainable** for val
 
 ---
 
-## 🛠️ Tech Stack  
-- 🐍 **Python 3.11+**  
-- ⚡ **Pytest** – test runner & fixtures  
-- 🌐 **Requests** – API HTTP client  
-- 📊 **Pytest HTML Reports** – execution results  
+##🛠️ Tech Stack
+- **Language**: Python
+- **Framework**: Pytest
+- **Library**: Requests
+- **Reports**: Pytest-HTML
+- **CI/CD**: GitHub Actions
 
 ---
 
