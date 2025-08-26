@@ -39,3 +39,10 @@ It helps validate RESTful API endpoints for response codes, payloads, and busine
 - **conftest.py** → Shared pytest fixtures  
 - **pytest.ini** → Pytest configuration  
 - **requirements.txt** → Dependencies  
+
+---
+
+##👨‍💻 Author
+
+Kowshal Sugunarajah
+Postgraduate Student in Cloud Computing | QA & Automation Enthusiast
